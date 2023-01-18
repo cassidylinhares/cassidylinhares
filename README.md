@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Microservice Architecture & Patterns and Flutter
 - 🧠 I'm expanding my knowledge on APIs with Java and React Architecture & Patterns
 - 📫 You can find and chat with me on [LinkedIn](https://www.linkedin.com/in/cassidy-linhares/)
+- 🗣️ I'm versed in React, Typescript, Java, Python, Go, MySQL, Flutter, VB.NET, C/C++
 
 <!---
 cassidylinhares/cassidylinhares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
